@@ -1,4 +1,10 @@
-Ce projet était le premier projet utilisant python.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Projet 1 : Réalisez une étude de santé publique :
+
+Prenez en main le langage Python pour analyser les données de la FAO sur la faim dans le monde.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pour apprendre les tenants et les aboutissants de cette formation et donc du métier de Data Analyst, nous avons du apprendre : 
 
