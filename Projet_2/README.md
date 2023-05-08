@@ -1,3 +1,11 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Projet 2 : Optimisez la gestion des données d'une boutique :
+
+Les données de cette entreprise sont mal organisées. Faites cohabiter les différents jeux de données pour effectuer l'analyse demandée.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Pour ce projet Numéro 2, nous devions prendre les données d'une entreprise qui vendait du vin.
 
 Pour ce projet nous avons appris à :
