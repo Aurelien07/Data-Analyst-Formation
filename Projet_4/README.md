@@ -14,7 +14,7 @@ Pour ce projet, il faudra :
       - Un cercle de corrélation
       - Un nuage de points
 
--  Réalisez une analyse exploratoire de données : 
+- Réalisez une analyse exploratoire de données : 
 
       - On utilisera un CAH (dendogramme pour visualiser)
       - On utilisera le clustering k-means pour visualiser via la méthode du coude
