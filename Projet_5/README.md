@@ -14,3 +14,4 @@ Dans ce projet il va falloir :
 - Réaliser une imputation via la régression logistique
 - Réaliser une régression linéaire
 - Opérer des classifications automatiques pour partitionner les données
+- créer un script python de détection des faux billets.
